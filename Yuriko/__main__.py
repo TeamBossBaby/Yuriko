@@ -90,7 +90,10 @@ PM_START_TEXT = """
 × *Uᴘᴛɪᴍᴇ:* `{}`
 × `{}` *Uꜱᴇʀ, Aᴄʀᴏꜱꜱ* `{}` *Cʜᴀᴛꜱ.*
 ────────────────────────
-✗ *Pᴏᴡᴇʀᴇᴅ 💕 Bʏ :  @ToxicDeeModderr!*
+✗ *Pᴏᴡᴇʀᴇᴅ 💕 Bʏ :  @ToxicDeeModderr!
+
+Sᴜʙsᴄʀɪʙᴇ Tᴏ Mʏ Yᴏᴜᴛᴜʙᴇ Cʜᴀɴɴᴇʟ :
+https://www.youtube.com/c/TOXICGAMINGMODS *
 """
 
 buttons = [
